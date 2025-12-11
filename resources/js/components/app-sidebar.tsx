@@ -26,12 +26,12 @@ const mainNavItems: NavItem[] = [
         title: 'Usuarios',
         href: '#',
         icon: User2, 
-        }
+        },
     {
         title: 'Roles',
         href: '#',
         icon: ShieldCheck, 
-        }
+        },
     
 ];
 
